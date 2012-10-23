@@ -9,10 +9,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Joey 1978
-tagline: The Best in Men''s Clothing
-author : Joseph Sullivan
-  name : Name Lastname
+title : "Joey 1978"
+tagline: "The Best in Men's Clothing"
+author : "Joseph Sullivan"
+  name : 'Joseph Sullivan'
   email : blah@email.test
   github : username
   twitter : username
