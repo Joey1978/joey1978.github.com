@@ -13,10 +13,10 @@ title : "Joey 1978"
 tagline: "The Best in Men's Clothing"
 author : "Joseph Sullivan"
   name : 'Joseph Sullivan'
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  email : steve@apple.com
+  github : Joey1978
+  twitter : beerfortime
+  #feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
