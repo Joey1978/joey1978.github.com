@@ -10,8 +10,10 @@
 
   <address class="signature">
     <a class="author" href="{{ HOME_PATH }}">{{ site.author.name }}</a> 
-    <span class="date">{{ page.date | date: "%FT%T%z }}</span>
+    <span class="date">{{ page.date | date_to_xml_schema }}</span>
+    <span class="date">Word Count: {{ page.content | number_of_words }}</span>
     <span class="location">{{ page.location }}</span>
+
   </address>
   
   <div class="prev-next">
