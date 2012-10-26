@@ -9,14 +9,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Joey 1978
-tagline: The Most Fun You Can Have
-author :
-  name : Joseph Sullivan
-  email : blah@email.test
-  github : joey1978
+title : "Joey 1978"
+tagline: "The Best in Clothing"
+author : "Joseph Sullivan"
+  name : 'Joseph Sullivan'
+  email : steve@apple.com
+  github : Joey1978
   twitter : beerfortime
-  feedburner : feedname
+  #feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
