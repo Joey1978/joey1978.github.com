@@ -8,6 +8,10 @@
 
   {{ content }}
 
+  {% for flickr_url in post.flickr %}
+  <a href="{{ flickr_url }}">{{ flickr_url | flickr_image }}</a>
+  {% endfor %}
+
   <address class="signature">
     <a class="author" href="{{ HOME_PATH }}">{{ site.author.name }}</a> 
     <span class="date">{{ page.date | date_to_xml_schema }}</span>
@@ -25,7 +29,7 @@
   {% endif %}
   </div>
 
-  <span class="date">{{ page.content | number_of_words }}</span>
+  <span class="wordcount">Word Count: {{ page.content | number_of_words }}</span>
   
 </div><!-- End Page -->
 

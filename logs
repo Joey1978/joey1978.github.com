@@ -1,0 +1,4 @@
+127.0.0.1 - - [26/Oct/2012:00:18:52 -0700] "GET / HTTP/1.1" 200 25000 "www.eff.org" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0"
+127.0.0.1 - - [26/Oct/2012:00:18:53 -0700] "GET /favicon.ico HTTP/1.1" 404 0 "www.eff.org" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0"
+127.0.0.1 - - [26/Oct/2012:00:18:53 -0700] "GET /favicon.ico HTTP/1.1" 404 0 "www.eff.org" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0"
+127.0.0.1 - - [26/Oct/2012:00:19:04 -0700] "GET /index.md HTTP/1.1" 200 581 "www.eff.org" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:16.0) Gecko/20100101 Firefox/16.0"

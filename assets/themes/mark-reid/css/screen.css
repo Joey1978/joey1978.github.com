@@ -334,6 +334,10 @@ p.excerpt { margin: 0; }
 	right: 0;
 	top: 1.5em;
 }
+.wordcount {
+	font-size: 60%;
+	text-align: center;
+}
 /* @end */
 
 /* @group Code */
