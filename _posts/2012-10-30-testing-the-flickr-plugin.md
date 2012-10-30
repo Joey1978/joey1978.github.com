@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Testing the flickr plugin"
+description: "Testing the flickr plugin"
+category: test 
+tags: [jekyll, plugins, photos, flickr]
 flickr:
 - http://www.flickr.com/photos/niceletters/8137295962/
 - http://www.flickr.com/photos/niceletters/8137298198/
 - http://www.flickr.com/photos/niceletters/8136738231/ 
-description: "Testing the flickr plugin"
-category: test 
-tags: [jekyll plugins photos flickr]
 ---
 {% include JB/setup %}
 
